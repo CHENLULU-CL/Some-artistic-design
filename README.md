@@ -19,7 +19,7 @@ This is a collection of designs completed during my time at school.
 <div align="center">
   <img src="https://github.com/CHENLULU-CL/Some-artistic-design/blob/main/Figs/秋_近景1.png" alt="image description" width=30%>
   <img src="https://github.com/CHENLULU-CL/Some-artistic-design/blob/main/Figs/秋_外景_俯视图.png" alt="image description" width=30%>
-  <img src="https://github.com/CHENLULU-CL/Some-artistic-design/blob/main/Figs/秋_外景_正视图.png" alt="image description" width=30%>
+  <img src="https://github.com/CHENLULU-CL/Some-artistic-design/blob/main/Figs/秋_外景_正视图.jpg" alt="image description" width=30%>
 </div>
 **Winter**
 <div align="center">
